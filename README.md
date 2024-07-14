@@ -1,0 +1,4 @@
+ - Created a LSTM Recurrent Neural Network model that predicted spam in text messages w/97% accuracy
+ - Imported & Cleaned SMS Spam Collection dataset through eliminating punctuation, stopwords, etc.
+ - Utilized MATLAB & WordCloud to model categorical data & model accuracy over epochs
+ - Set up Early Stopping & Reduced Learning Rate to limit overfitting
